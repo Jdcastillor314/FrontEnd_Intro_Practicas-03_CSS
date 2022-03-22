@@ -377,7 +377,7 @@ p {
 }
 .preparation .col:nth-child(1){
     max-height: 46rem;
-    background-image: url("/img/img2.png");
+    background-image: url("../img/img2.png");
     background-size: 27rem auto;
     background-position: 60% 100%;
     background-repeat: no-repeat;
